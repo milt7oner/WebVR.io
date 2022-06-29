@@ -1,1 +1,2 @@
-# WebVR.io
+# WebXR
+WebXR Unity Adventure Demo
